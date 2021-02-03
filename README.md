@@ -12,8 +12,11 @@ this is horizontal line
 3. kabaddi
 
 
--cofee
--milk
--tea
-*italic*
-**bold**
+- cofee
+- milk
+- tea
+* italic *
+** bold **
+ how to open hyper links [apssdc](https://www.apssdc.in)
+ [ciet collage](https://www.chalapathiengg.ac.in/)
+ 
