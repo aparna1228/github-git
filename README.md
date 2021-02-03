@@ -19,6 +19,4 @@ this is horizontal line
 ** bold **
  how to open hyper links [apssdc](https://www.apssdc.in)
  [ciet collage](https://www.chalapathiengg.ac.in/)
- ![image] ("https://bridesmaidsincorporated.com/wp-content/uploads/2019/07/9460fd3452eb30845d9ba7eb03b41cb7.jpg")
-
-
+  ![image](https://i.pinimg.com/originals/92/5c/80/925c80a59b52e040acd6b2d73c8b4490.jpg)
